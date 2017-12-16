@@ -1,0 +1,8 @@
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\bin\Release\HelloWorld.Repository.dll
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\bin\Release\HelloWorld.Repository.pdb
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\bin\Release\HelloWorld.Model.dll
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\bin\Release\HelloWorld.Model.pdb
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\obj\Release\HelloWorld.Repository.csprojResolveAssemblyReference.cache
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\obj\Release\HelloWorld.Repository.csproj.CoreCompileInputs.cache
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\obj\Release\HelloWorld.Repository.dll
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Repository\obj\Release\HelloWorld.Repository.pdb

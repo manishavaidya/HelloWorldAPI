@@ -1,0 +1,5 @@
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Model\bin\Debug\HelloWorld.Model.dll
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Model\bin\Debug\HelloWorld.Model.pdb
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Model\obj\Debug\HelloWorld.Model.csproj.CoreCompileInputs.cache
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Model\obj\Debug\HelloWorld.Model.dll
+C:\Manisha\Crowe\HelloWorldAPI\HelloWorld.Model\obj\Debug\HelloWorld.Model.pdb
